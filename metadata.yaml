@@ -1,0 +1,32 @@
+_repo: The-Philosophy-of-Disenchantment_40079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltus, Edgar
+    alias: Saltus, Edgar Evertson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '1417'
+    url: http://www.gutenberg.org/2009/agents/1417
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
+description: '"This book discusses the philosophy of disenchantment. In it, the author
+  addresses various philosophical topics such as the genesis of disenchantment, the
+  high priest of pessimism, the Sphinx''s riddle, the borderlands of happiness, the
+  great quietus, and questions if life is an affliction." (PsycINFO Database Record
+  (c) 2010 APA, all rights reserved).'
+gutenberg_issued: '2012-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Pessimism'
+title: The Philosophy of Disenchantment
+url: http://www.gutenberg.org/ebooks/40079
